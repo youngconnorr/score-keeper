@@ -3,6 +3,7 @@ This is a simple JavaScript-based scorekeeper application for keeping track of s
 
 ## Features 🔎
 - Add and subtract scores for multiple players or teams.
+- Set max score.
 - Reset scores to zero.
 - User-friendly interface for easy score tracking.
   
